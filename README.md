@@ -1,3 +1,5 @@
+...
+
 # Atrapar al Gato
 
 Un juego web donde el objetivo es atrapar a un gato en un tablero hexagonal. El gato intentará escapar usando el mejor camino posible hacia el borde del tablero.
